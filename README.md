@@ -32,11 +32,11 @@ The indicators will be calculated for each individual customer (referred to cust
  
 The database ('db_bancario.sql') consists of the following tables:
 
-**Customer**: contains personal information about customers (for example, age).
-**Account**: contains information about the accounts held by customers.
-**Account_Type**: describes the different types of accounts available.
-**Transaction_Type**: contains the types of transactions that can occur on the accounts.
-**Transactions**: contains the details of transactions made by customers on the various accounts.
+- **Customer**: contains personal information about customers (for example, age).
+- **Account**: contains information about the accounts held by customers.
+- **Account_Type**: describes the different types of accounts available.
+- **Transaction_Type**: contains the types of transactions that can occur on the accounts.
+- **Transactions**: contains the details of transactions made by customers on the various accounts.
 
 ## Strategy used 
 
