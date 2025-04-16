@@ -41,7 +41,7 @@ The database ('db_bancario.sql') consists of the following tables:
 ## Strategy used 
 
 1. **Join Tables**
-To build the final table, you will need to perform a series of joins between the tables available in the database.
+To build the final table, I used a series of joins between the tables available in the database.
 
 2. **Calculate Indicators**
-The behavioral indicators will be calculated using aggregation operations (SUM, COUNT) to obtain the required totals.
+The behavioral indicators are calculated using aggregation operations (SUM, COUNT) to obtain the required totals.
