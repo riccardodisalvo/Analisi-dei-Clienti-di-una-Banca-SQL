@@ -8,7 +8,7 @@ The Banking Intelligence company wants to develop a supervised machine learning 
 
 Goal is to create a feature table for training machine learning models by enriching customer data with various indicators calculated from their transactions and accounts held. The final table will be referenced by customer ID and will contain both quantitative and qualitative information.
 
-## Key Questions Explored
+## Key Indicators Explored
 
 The indicators will be calculated for each individual customer (referred to customer_id) and include:
 
