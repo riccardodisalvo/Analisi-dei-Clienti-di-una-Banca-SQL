@@ -12,17 +12,17 @@ Goal is to create a feature table for training machine learning models by enrich
 
 The indicators will be calculated for each individual customer (referred to customer_id) and include:
 
-**Basic indicators**
+### 1. **Basic indicators**
  - Customer age (from customer table).
-**Indicators on transactions**
+### 2. **Indicators on transactions**
  - Number of outgoing transactions on all accounts.
  - Number of incoming transactions on all accounts.
  - Total amount transacted out on all accounts.
  - Total amount transacted in on all accounts.
-**Indicators on accounts**
+### 3. **Indicators on accounts**
  - Total number of accounts owned.
  - Number of accounts owned by type (one indicator for each account type).
-**Indicators on transactions by account type**
+### 4. **Indicators on transactions by account type**
  - Number of outgoing transactions by account type (one indicator for each account type).
  - Number of incoming transactions by account type (one indicator for each account type).
  - Amount transacted out by account type (one indicator for each account type).
