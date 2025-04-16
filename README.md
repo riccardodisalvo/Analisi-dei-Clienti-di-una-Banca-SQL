@@ -1,4 +1,4 @@
-# Analysis of Bank's Customers
+# Analysis of a Bank's Customers
 
 ## Project Overview
 
