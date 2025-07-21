@@ -49,7 +49,7 @@ Gli indicatori sono calcolati per ogni singolo cliente (riferiti a id_cliente) e
 
 ### Piano per la Creazione della Tabella Denormalizzata
 1. ***Join delle Tabelle***
-   Vengono seguite una serie di join tra le tabelle disponibili nel database per costruire la tabella finale.
+   Vengono eseguite una serie di join tra le tabelle disponibili nel database per costruire la tabella finale.
 
 2. ***Calcolo degli Indicatori***
    Utilizzare operazioni di aggregazione (SUM, COUNT) per calcolare gli indicatori comportamentali richiesti.
