@@ -26,7 +26,8 @@ Il database è costituito dalle seguenti tabelle:
 - Tipo_conto: Descrizione delle diverse tipologie di conti disponibili.
 - Tipo_transazione: Tipi di transazione che possono avvenire sui conti.
 - Transazioni: Dettagli delle transazioni effettuate dai clienti sui vari conti.
-- Indicatori Comportamentali da Calcolare
+
+## Indicatori Comportamentali da Calcolare
 
 Gli indicatori sono calcolati per ogni singolo cliente (riferiti a id_cliente) e includono:
 
